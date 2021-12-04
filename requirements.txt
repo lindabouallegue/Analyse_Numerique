@@ -1,6 +1,4 @@
-dependencies:
-  - matplotlib
-  - numpy
-  - ipywidgets
-  - pip:
-    - ipympl
+matplotlib
+numpy
+ipywidgets
+ipympl
