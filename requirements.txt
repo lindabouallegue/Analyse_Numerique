@@ -3,3 +3,5 @@ numpy
 ipywidgets
 ipympl
 scipy
+math
+SymPy
