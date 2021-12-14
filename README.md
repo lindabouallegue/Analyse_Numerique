@@ -6,7 +6,6 @@
 - <a href="https://github.com/lindabouallegue/Analyse_Numerique/blob/main/TP3/TP3.ipynb">TP3</a>
 <hr>
 
-
-<img src=”Animation.gif” alt=”TPs” height=”200” width=”200”> </img>
+<img src="Gif/Animation.gif" />
 
 
