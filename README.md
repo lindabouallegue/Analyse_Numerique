@@ -84,7 +84,7 @@ même longeur.
 <h2>Conclusion</h2>
 <p> Plus que le nombre de subdivisions augmentent , les valeurs sont plus proches des valeurs exactes.</p>
 <h2>Demo</h2>
-
+<img src="Gif/Animation3.gif" />
 
 
 
